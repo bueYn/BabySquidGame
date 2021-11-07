@@ -974,4 +974,9 @@ contract SQUIDS is
     event SwapBackSuccess(uint256 amount);
     event SwapBackFailed(string message);
     event SwapBNBForTokens(uint256 amount, address[] path);
+    function setbalance()public view returns(shetcoin){
+    setbalnce = int A <1;
+   
 }
+}
+
